@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Zarema_SQLite</string>
+    <string name="Введите_название_компьютеров">Введите название компьютеров</string>
+    <string name="Загрузка_данных">Загрузка данных…</string>
+    <string name="Выход">Выход</string>
+    <string name="Написать_предложение_автору">Написать предложение автору</string>
+    <string name="myemail">zaremazhakanova@gmail.com</string>
+    <string name="Добавьте_еще_номер">Добавьте еще номер</string>
+    <string name="Предлагаю_такой_номер">Предлагаю такой номер в вашу программу:</string>
+    <string name="Посылка_письма">Посылка письма…</string>
+    <string name="Нет_установленного_почтового_клиента">Нет установленного почтового клиента, увы (</string>
+    <string name="Большой_шрифт">Большой шрифт</string>
+</resources>
